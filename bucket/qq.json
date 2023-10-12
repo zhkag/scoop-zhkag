@@ -1,0 +1,20 @@
+{
+    "version": "9.9.3.17260",
+    "description": "An instant messaging tool that gives you the best way to keep in touch with your friends and family.",
+    "homepage": "https://im.qq.com",
+    "license": {
+        "identifier": "Proprietary",
+        "url": "https://ti.qq.com/agreement/index.html"
+    },
+    "url": "https://dldir1.qq.com/qqfile/qq/QQNT/e4559146/QQ9.9.3.17260_x64.exe#/dl.7z",
+    "hash": "8cfd7546385c15d84239f22c3b300e364d4b626c50a33d161a3612aa661ab38a",
+    "shortcuts": [
+        [
+            "Files\\QQ.exe",
+            "QQ"
+        ]
+    ],
+    "autoupdate": {
+        "url": "https://dldir1.qq.com/qqfile/qq/QQNT/e4559146/QQ${version}_x64.exe#/dl.7z"
+    }
+}

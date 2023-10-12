@@ -1,0 +1,19 @@
+{
+    "homepage": "https://www.u.tools/",
+    "description": "utools",
+    "version": "4.1.0",
+    "license": "Freeware",
+    "url": "https://res.u-tools.cn/version2/uTools-4.1.0.exe#/utools.7z",
+    "shortcuts": [
+        [
+            "utools.exe",
+            "utools"
+        ]
+    ],
+    "pre_install": [
+        "7z x $dir\\'$PLUGINSDIR\'\\app-64.7z \"-o$dir\""
+    ],
+    "autoupdate": {
+        "url": "https://res.u-tools.cn/version2/uTools-$version.exe$utools.7z"
+    }
+}
