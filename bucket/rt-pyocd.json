@@ -11,6 +11,6 @@
     ],
 
     "autoupdate": {
-        "url": "https://github.com/RT-Thread-Studio/sdk-debugger-pyocd/archive/refs/tags/${version}.zip"
+        "url": "https://github.com/RT-Thread-Studio/sdk-debugger-pyocd/archive/refs/tags/$version.zip"
     }
 }
