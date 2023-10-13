@@ -15,6 +15,6 @@
         ]
     ],
     "autoupdate": {
-        "url": "https://dldir1.qq.com/qqfile/qq/QQNT/e4559146/QQ${version}_x64.exe#/dl.7z"
+        "url": "https://dldir1.qq.com/qqfile/qq/QQNT/e4559146/QQ${version}_x64.exe"
     }
 }

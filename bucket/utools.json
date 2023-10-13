@@ -14,6 +14,6 @@
         "7z x $dir\\'$PLUGINSDIR\'\\app-64.7z \"-o$dir\""
     ],
     "autoupdate": {
-        "url": "https://res.u-tools.cn/version2/uTools-$version.exe$utools.7z"
+        "url": "https://res.u-tools.cn/version2/uTools-$version.exe"
     }
 }
