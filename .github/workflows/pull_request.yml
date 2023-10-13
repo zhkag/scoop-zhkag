@@ -6,6 +6,9 @@ jobs:
   pullRequestHandler:
     name: PullRequestHandler
     runs-on: windows-latest
+    permissions:
+      contents: write
+      pull-requests: write
     steps:
     - uses: actions/checkout@main
     - name: PullRequestHandler
