@@ -3,13 +3,13 @@
 [Scoop](https://scoop.sh/) bucket for non-portable applications.
 
 ```
-scoop bucket add zhkag
+scoop bucket add zhkag https://github.com/zhkag/scoop-zhkag.git
 ```
 
 How do I install these packages?
 ---------------------------------
 
-To add this bucket, run `scoop bucket add zhkag`.
+To add this bucket, run `scoop bucket add zhkag https://github.com/zhkag/scoop-zhkag.git`.
 
 To install, run `scoop install <package>`.
 
