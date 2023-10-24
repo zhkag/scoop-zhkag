@@ -1,0 +1,13 @@
+{
+    "version": "8.1",
+    "description": "PDF document translation reading artifact.",
+    "homepage": "https://www.zhiyunwenxian.cn/",
+    "license": "Freeware",
+    "url": "https://developer-oss.lanzouc.com/file/?B2FTbV1sVWQDCldvVGECbltkUmpTVgdtA21XKFV8WzQEUAciCzcEPgMmBA0GIQVhUX8EdFB/BT8DKgYxVyVUZQdBUypdZVV5AzBXJ1RmAmpbbVIyU1MHbANgV2xVOFtpBDwHYAtuBGMDYgRnBmQFIlFtBHJQMgU2AzAGM1c4VG0HMVMyXTBVMQNzV3FUcAI+WzNSZ1M+BzYDK1dhVTBbdQQ2B2ALeQQxAzYEYAZiBT1RPAQxUDgFYQMwBjlXM1RhBzFTMV0wVTUDbFcyVDQCNFtiUjNTPAdjAz1XaFU+WzsEMgc1C24EfgMwBCoGNwUiUX4EclBqBXUDbQZkVzZUYQcyUzRdOVU0A2dXJ1R0AmpbbFIyU2oHOAM1V2dVMFtiBDUHZAtiBGMDZQRiBnwFKlEtBGdQYwVwAzkGMVc9VGwHP1M1XTRVMgNnVzhUNwIlW3RSJ1N7BzgDNVdnVTBbbwQ2B2ALZgRkA2EEagZ0BXFRYgRxUDIFNgM8BjBXJVRkBzFTMV0uVTADZFc0VC4CMVs1Um4=",
+    "shortcuts": [
+        [
+            "ZhiYunTranslator.exe",
+            "ZhiYunTranslator"
+        ]
+    ]
+}
